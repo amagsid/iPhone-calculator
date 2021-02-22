@@ -10,6 +10,4 @@ This repo is a recreation of the famous iPhone calculagor UI and functionality u
  
  
  ###  Motivation:
- My goal for this project was to create a replica of the iPhone calculator UI using HTML, CSS and vanilla Javascript. 
-  
- 
+ Since I'm a fan of the iPhone's design language, my goal for this project was to create a replica of the iPhone calculator UI and functionality.
