@@ -1,6 +1,6 @@
 # iPhone Calculator 📱
 
- <img alt="GIF" src="https://github.com/amagsid/iPhone-calculator/blob/master/assets/gif1.gif" width="1000" height="600" />
+ <img alt="GIF" src="https://github.com/amagsid/iPhone-calculator/blob/master/assets/gif1.gif" width="1000" height="580" />
  
  
 ### 💡 About the Project:
